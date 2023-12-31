@@ -1,0 +1,157 @@
+{
+	id: "7C7FD0D4A7824E24"
+	group: ""
+	order_index: 2
+	filename: "7C7FD0D4A7824E24"
+	title: "终极"
+	icon: "projecte:tome"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: -1.0d
+			y: 0.0d
+			shape: "hexagon"
+			dependencies: ["77311F935F307110"]
+			id: "0FC02C6B767A80A5"
+			tasks: [{
+				id: "696462CB4EF24144"
+				type: "item"
+				item: "projecte:tome"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			shape: "pentagon"
+			dependencies: ["45A29F630C637EA8"]
+			id: "77311F935F307110"
+			tasks: [{
+				id: "0EFA469EBBCFA6C9"
+				type: "item"
+				item: "projecte:transmutation_tablet"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			dependencies: ["2E44CA77B37FF54F"]
+			id: "33B693F2BD2A9E96"
+			tasks: [{
+				id: "3B65DB179AAE0CE2"
+				type: "item"
+				item: "projecte:dark_matter"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			dependencies: ["7BAAE10050FAA642"]
+			id: "45A29F630C637EA8"
+			tasks: [{
+				id: "4C0A4F00743287DB"
+				type: "item"
+				item: "projecte:red_matter"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			shape: "diamond"
+			dependencies: ["33B693F2BD2A9E96"]
+			id: "7BAAE10050FAA642"
+			tasks: [{
+				id: "4B5F1BD12A207EEF"
+				type: "item"
+				item: "projecte:transmutation_table"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -1.0d
+			dependencies: ["33B693F2BD2A9E96"]
+			id: "3AD4DA9B9C97D37E"
+			tasks: [{
+				id: "7D06ECF129710A10"
+				type: "item"
+				item: {
+					id: "projecte:watch_of_flowing_time"
+					Count: 1b
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
+					}
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 1.0d
+			dependencies: ["45A29F630C637EA8"]
+			id: "389BADF34A9F9CDC"
+			tasks: [{
+				id: "79C730DBC09C6B82"
+				type: "item"
+				item: "projecte:dm_pedestal"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			dependencies: ["5DB9755AEBB01370"]
+			id: "2E44CA77B37FF54F"
+			tasks: [
+				{
+					id: "4E75056BA35CAB4A"
+					type: "item"
+					item: "projecte:collector_mk1"
+				}
+				{
+					id: "713BBF8D9CD4663F"
+					type: "item"
+					item: "projecte:relay_mk1"
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			dependencies: ["33B693F2BD2A9E96"]
+			id: "49DFF18CC17229F9"
+			tasks: [{
+				id: "1D01FBE530E6B2B2"
+				type: "item"
+				item: "projecte:condenser_mk1"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			id: "5DB9755AEBB01370"
+			tasks: [
+				{
+					id: "59C11D5E3AE44C5F"
+					type: "item"
+					item: "projecte:mobius_fuel"
+				}
+				{
+					id: "0C11B6D882B05155"
+					type: "item"
+					item: "projecte:aeternalis_fuel"
+				}
+				{
+					id: "79C633CC0B3E7156"
+					type: "item"
+					item: {
+						id: "projecte:klein_star_ein"
+						Count: 1b
+						ForgeCaps: {
+							Parent: { }
+						}
+					}
+				}
+			]
+		}
+	]
+	quest_links: [ ]
+}

@@ -1,0 +1,712 @@
+{
+  "entries": [
+    {
+      "item": "beyond_earth:cheese",
+      "emc": 64
+    },
+    {
+      "item": "thermal:cinnabar",
+      "emc": 128
+    },
+    {
+      "item": "thermal:niter",
+      "emc": 128
+    },
+    {
+      "item": "thermal:sulfur",
+      "emc": 128
+    },
+    {
+      "item": "byg:ametrine_gems",
+      "emc": 8192
+    },
+    {
+      "item": "byg:emeraldite_shards",
+      "emc": 3276
+    },
+    {
+      "item": "byg:subzero_crystal_shard",
+      "emc": 32
+    },
+    {
+      "item": "byg:anthracite",
+      "emc": 192
+    },
+    {
+      "item": "byg:lignite",
+      "emc": 112
+    },
+    {
+      "item": "thermal:steel_ingot",
+      "emc": 320
+    },
+    {
+      "item": "beyond_earth:desh_ingot",
+      "emc": 640
+    },
+    {
+      "item": "beyond_earth:ostrum_ingot",
+      "emc": 1280
+    },
+    {
+      "item": "beyond_earth:calorite_ingot",
+      "emc": 2560
+    },
+    {
+      "item": "beyond_earth:ice_shard",
+      "emc": 1
+    },
+    {
+      "item": "tconstruct:earth_slime_crystal",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:sky_slime_crystal",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:ichor_slime_crystal",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:ender_slime_crystal",
+      "emc": 32
+    },
+    {
+      "item": "forbidden_arcanus:arcane_crystal",
+      "emc": 864
+    },
+    {
+      "item": "forbidden_arcanus:xpetrified_orb",
+      "emc": 3456
+    },
+    {
+      "item": "undergarden:cloggrum_ingot",
+      "emc": 512
+    },
+    {
+      "item": "undergarden:froststeel_ingot",
+      "emc": 2048
+    },
+    {
+      "item": "undergarden:utherium_crystal",
+      "emc": 8192
+    },
+    {
+      "item": "undergarden:regalium_crystal",
+      "emc": 2048
+    },
+    {
+      "item": "enigmaticlegacy:etherium_ingot",
+      "emc": 32768
+    },
+    {
+      "item": "irons_spellbooks:arcane_salvage",
+      "emc": 12288
+    },
+    {
+      "item": "byg:pendorite_scraps",
+      "emc": 16384
+    },
+    {
+      "item": "minecraft:furnace",
+      "emc": 8
+    },
+    {
+      "item": "forbidden_arcanus:stellarite_piece",
+      "emc": 12288
+    },
+    {
+      "item": "immersiveengineering:electron_tube",
+      "emc": 384
+    },
+    {
+      "item": "minecraft:charcoal",
+      "emc": 32
+    },
+    {
+      "item": "immersiveengineering:component_electronic_adv",
+      "emc": 928
+    },
+    {
+      "item": "mythicbotany:alfsteel_ingot",
+      "emc": 9720
+    },
+    {
+      "item": "ae2:singularity",
+      "emc": 1024
+    },
+    {
+      "item": "lazierae2:resonating_dust",
+      "emc": 4610
+    },
+    {
+      "item": "forbidden_arcanus:eternal_stella",
+      "emc": 22656
+    },
+    {
+      "item": "projecte:alchemical_chest",
+      "emc": 8987
+    },
+    {
+      "item": "tconstruct:blood_slime_ball",
+      "emc": 32
+    },
+    {
+      "item": "tconstruct:manyullyn_ingot",
+      "emc": 6144
+    },
+    {
+      "item": "ae2:fluix_dust",
+      "emc": 288
+    },
+    {
+      "item": "ae2:fluix_crystal",
+      "emc": 288
+    },
+    {
+      "item": "immersiveengineering:dust_hop_graphite",
+      "emc": 512
+    },
+    {
+      "item": "ae2:sky_stone_block",
+      "emc": 384
+    },
+    {
+      "item": "beyond_earth:sky_stone",
+      "emc": 384
+    },
+    {
+      "item": "forbidden_arcanus:rune",
+      "emc": 864
+    },
+    {
+      "item": "mysticalagriculture:air_seeds",
+      "emc": 744
+    },
+    {
+      "item": "mysticalagriculture:earth_seeds",
+      "emc": 744
+    },
+    {
+      "item": "mysticalagriculture:water_seeds",
+      "emc": 740
+    },
+    {
+      "item": "minecraft:lava_bucket",
+      "emc": 788
+    },
+    {
+      "item": "mysticalagriculture:fire_seeds",
+      "emc": 820
+    },
+    {
+      "item": "mysticalagriculture:inferium_seeds",
+      "emc": 272
+    },
+    {
+      "item": "mysticalagriculture:stone_seeds",
+      "emc": 660
+    },
+    {
+      "item": "mysticalagriculture:dirt_seeds",
+      "emc": 660
+    },
+    {
+      "item": "mysticalagriculture:wood_seeds",
+      "emc": 784
+    },
+    {
+      "item": "mysticalagriculture:ice_seeds",
+      "emc": 660
+    },
+    {
+      "item": "mysticalagriculture:deepslate_seeds",
+      "emc": 660
+    },
+    {
+      "item": "mysticalagriculture:nature_seeds",
+      "emc": 2032
+    },
+    {
+      "item": "mysticalagriculture:dye_seeds",
+      "emc": 1084
+    },
+    {
+      "item": "mysticalagriculture:nether_seeds",
+      "emc": 1352
+    },
+    {
+      "item": "mysticalagriculture:coal_seeds",
+      "emc": 1552
+    },
+    {
+      "item": "mysticalagriculture:coral_seeds",
+      "emc": 2064
+    },
+    {
+      "item": "mysticalagriculture:honey_seeds",
+      "emc": 1544
+    },
+    {
+      "item": "mysticalagriculture:amethyst_seeds",
+      "emc": 1168
+    },
+    {
+      "item": "mysticalagriculture:pig_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:chicken_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:cow_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:sheep_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:squid_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:fish_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:slime_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:turtle_seeds",
+      "emc": 6144
+    },
+    {
+      "item": "mysticalagriculture:rubber_seeds",
+      "emc": 1296
+    },
+    {
+      "item": "mysticalagriculture:silicon_seeds",
+      "emc": 2064
+    },
+    {
+      "item": "mysticalagriculture:sulfur_seeds",
+      "emc": 1552
+    },
+    {
+      "item": "mysticalagriculture:aluminum_seeds",
+      "emc": 1552
+    },
+    {
+      "item": "thermal:sulfur_dust",
+      "emc": 128
+    },
+    {
+      "item": "thermal:niter_dust",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:saltpeter_seeds",
+      "emc": 1552
+    },
+    {
+      "item": "thermal:apatite",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagriculture:apatite_seeds",
+      "emc": 1552
+    },
+    {
+      "item": "mysticalagriculture:mystical_flower_seeds",
+      "emc": 1296
+    },
+    {
+      "item": "create:limestone",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:limestone_seeds",
+      "emc": 1104
+    },
+    {
+      "item": "mysticalagriculture:iron_seeds",
+      "emc": 3600
+    },
+    {
+      "item": "mysticalagriculture:copper_seeds",
+      "emc": 3088
+    },
+    {
+      "item": "mysticalagriculture:nether_quartz_seeds",
+      "emc": 3600
+    },
+    {
+      "item": "mysticalagriculture:glowstone_seeds",
+      "emc": 4112
+    },
+    {
+      "item": "mysticalagriculture:redstone_seeds",
+      "emc": 2832
+    },
+    {
+      "item": "mysticalagriculture:obsidian_seeds",
+      "emc": 2832
+    },
+    {
+      "item": "mysticalagriculture:prismarine_seeds",
+      "emc": 8720
+    },
+    {
+      "item": "mysticalagriculture:zombie_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:skeleton_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:creeper_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:spider_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:rabbit_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:tin_seeds",
+      "emc": 3600
+    },
+    {
+      "item": "mysticalagriculture:bronze_seeds",
+      "emc": 3216
+    },
+    {
+      "item": "mysticalagriculture:zinc_seeds",
+      "emc": 3088
+    },
+    {
+      "item": "mysticalagriculture:blizz_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:blitz_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:basalz_seeds",
+      "emc": 7680
+    },
+    {
+      "item": "mysticalagriculture:brass_seeds",
+      "emc": 3080
+    },
+    {
+      "item": "mysticalagriculture:silver_seeds",
+      "emc": 4624
+    },
+    {
+      "item": "mysticalagriculture:lead_seeds",
+      "emc": 4624
+    },
+    {
+      "item": "mysticalagriculture:graphite_seeds",
+      "emc": 4624
+    },
+    {
+      "item": "mysticalagriculture:amethyst_bronze_seeds",
+      "emc": 3188
+    },
+    {
+      "item": "mysticalagriculture:slimesteel_seeds",
+      "emc": 3152
+    },
+    {
+      "item": "mysticalagriculture:pig_iron_seeds",
+      "emc": 3152
+    },
+    {
+      "item": "mysticalagriculture:manasteel_seeds",
+      "emc": 3584
+    },
+    {
+      "item": "mysticalagriculture:steeleaf_seeds",
+      "emc": 6672
+    },
+    {
+      "item": "mysticalagriculture:ironwood_seeds",
+      "emc": 4624
+    },
+    {
+      "item": "mysticalagriculture:sky_stone_seeds",
+      "emc": 4112
+    },
+    {
+      "item": "mysticalagriculture:certus_quartz_seeds",
+      "emc": 3600
+    },
+    {
+      "item": "mysticalagriculture:gold_seeds",
+      "emc": 16912
+    },
+    {
+      "item": "mysticalagriculture:lapis_lazuli_seeds",
+      "emc": 12176
+    },
+    {
+      "item": "mysticalagriculture:end_seeds",
+      "emc": 10264
+    },
+    {
+      "item": "mysticalagriculture:experience_seeds",
+      "emc": 17376
+    },
+    {
+      "item": "mysticalagriculture:steel_seeds",
+      "emc": 10000
+    },
+    {
+      "item": "mysticalagriculture:nickel_seeds",
+      "emc": 12816
+    },
+    {
+      "item": "mysticalagriculture:constantan_seeds",
+      "emc": 11024
+    },
+    {
+      "item": "mysticalagriculture:electrum_seeds",
+      "emc": 13832
+    },
+    {
+      "item": "mysticalagriculture:invar_seeds",
+      "emc": 10412
+    },
+    {
+      "item": "mysticalagriculture:blaze_seeds",
+      "emc": 13824
+    },
+    {
+      "item": "mysticalagriculture:ghast_seeds",
+      "emc": 13824
+    },
+    {
+      "item": "mysticalagriculture:enderman_seeds",
+      "emc": 13824
+    },
+    {
+      "item": "mysticalagriculture:mithril_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:tungsten_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:titanium_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:uranium_seeds",
+      "emc": 25104
+    },
+    {
+      "item": "mysticalagriculture:chrome_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:ruby_seeds",
+      "emc": 16912
+    },
+    {
+      "item": "mysticalagriculture:sapphire_seeds",
+      "emc": 16912
+    },
+    {
+      "item": "mysticalagriculture:signalum_seeds",
+      "emc": 9872
+    },
+    {
+      "item": "mysticalagriculture:lumium_seeds",
+      "emc": 10736
+    },
+    {
+      "item": "mysticalagriculture:hop_graphite_seeds",
+      "emc": 10768
+    },
+    {
+      "item": "mysticalagriculture:cobalt_seeds",
+      "emc": 25104
+    },
+    {
+      "item": "mysticalagriculture:rose_gold_seeds",
+      "emc": 10880
+    },
+    {
+      "item": "mysticalagriculture:elementium_seeds",
+      "emc": 10736
+    },
+    {
+      "item": "mysticalagriculture:osmium_seeds",
+      "emc": 10768
+    },
+    {
+      "item": "mysticalagriculture:fluorite_seeds",
+      "emc": 11024
+    },
+    {
+      "item": "mysticalagriculture:refined_glowstone_seeds",
+      "emc": 11852
+    },
+    {
+      "item": "mysticalagriculture:refined_obsidian_seeds",
+      "emc": 14444
+    },
+    {
+      "item": "mysticalagriculture:knightmetal_seeds",
+      "emc": 16912
+    },
+    {
+      "item": "mysticalagriculture:fiery_ingot_seeds",
+      "emc": 25104
+    },
+    {
+      "item": "mysticalagriculture:fluix_seeds",
+      "emc": 9872
+    },
+    {
+      "item": "mysticalagriculture:diamond_seeds",
+      "emc": 66064
+    },
+    {
+      "item": "mysticalagriculture:emerald_seeds",
+      "emc": 98832
+    },
+    {
+      "item": "mysticalagriculture:netherite_seeds",
+      "emc": 233888
+    },
+    {
+      "item": "mysticalagriculture:platinum_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:iridium_seeds",
+      "emc": 0
+    },
+    {
+      "item": "mysticalagriculture:enderium_seeds",
+      "emc": 56840
+    },
+    {
+      "item": "mysticalagriculture:manyullyn_seeds",
+      "emc": 57872
+    },
+    {
+      "item": "mysticalagriculture:queens_slime_seeds",
+      "emc": 45644
+    },
+    {
+      "item": "mysticalagriculture:hepatizon_seeds",
+      "emc": 42116
+    },
+    {
+      "item": "mysticalagriculture:terrasteel_seeds",
+      "emc": 71168
+    },
+    {
+      "item": "mysticalagriculture:nether_star_seeds",
+      "emc": 688656
+    },
+    {
+      "item": "mysticalagriculture:gaia_spirit_seeds",
+      "emc": 132624
+    },
+    {
+      "item": "mysticalagriculture:dragon_egg_seeds",
+      "emc": 481124
+    },
+    {
+      "item": "mysticalagriculture:wither_skeleton_seeds",
+      "emc": 38400
+    },
+    {
+      "item": "thermal:apatite_dust",
+      "emc": 128
+    },
+    {
+      "item": "thermal:cinnabar_dust",
+      "emc": 128
+    },
+    {
+      "item": "mysticalagradditions:dragon_scale",
+      "emc": 87381
+    },
+    {
+      "item": "mysticalagradditions:dragon_egg_chunk",
+      "emc": 87381
+    },
+    {
+      "item": "twilightforest:ironwood_ingot",
+      "emc": 512
+    },
+    {
+      "item": "twilightforest:steeleaf_ingot",
+      "emc": 1024
+    },
+    {
+      "item": "twilightforest:fiery_tears",
+      "emc": 3840
+    },
+    {
+      "item": "twilightforest:fiery_blood",
+      "emc": 3840
+    },
+    {
+      "item": "twilightforest:armor_shard",
+      "emc": 227
+    },
+    {
+      "item": "twilightforest:armor_shard_cluster",
+      "emc": 2048
+    },
+    {
+      "item": "tconstruct:earth_slime_grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:sky_slime_grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:ender_slime_grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "tconstruct:blood_slime_grass_seeds",
+      "emc": 16
+    },
+    {
+      "item": "mysticalagriculture:experience_droplet",
+      "emc": 864
+    },
+    {
+      "item": "thermal:basalz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:blitz_rod",
+      "emc": 1536
+    },
+    {
+      "item": "thermal:blizz_rod",
+      "emc": 1536
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+To refresh this file, delete it and run /reload command again! Last updated: Aug 27, 2023, 11:43:47 PM
+
+#minecraft:acquirable_job_site
+- villagersplus:horticulturist
+- villagersplus:oceanographer
+- villagersplus:occultist
+- villagersplus:alchemist

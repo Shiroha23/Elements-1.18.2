@@ -1,0 +1,110 @@
+{
+	id: "51F507370D04AAD7"
+	group: ""
+	order_index: 1
+	filename: "51F507370D04AAD7"
+	title: "后期"
+	icon: {
+		id: "projecte:philosophers_stone"
+		Count: 1b
+		tag: { }
+		ForgeCaps: {
+			Parent: { }
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: -2.0d
+			id: "1412848D3BEE5119"
+			tasks: [{
+				id: "6AEC5F1B824C407C"
+				type: "item"
+				item: "extendedcrafting:the_ultimate_ingot"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			id: "51CC8526297938A9"
+			tasks: [{
+				id: "0FC64DDACED7D79E"
+				type: "item"
+				item: "mythicbotany:alfsteel_ingot"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "03439BCB66261CE3"
+			tasks: [{
+				id: "098724253E30C027"
+				type: "item"
+				item: "ars_nouveau:summon_focus"
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			id: "4349DC009FC38F30"
+			tasks: [{
+				id: "1C7BE3F50BEADDF4"
+				type: "item"
+				item: "mysticalagradditions:insanium_ingot"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			id: "0F252A49290F236D"
+			tasks: [{
+				id: "3F8DF783F5649E87"
+				type: "item"
+				item: "fluxnetworks:flux_core"
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			id: "21226FA8639ED4D3"
+			tasks: [{
+				id: "47AA2590AA2AA453"
+				type: "item"
+				item: {
+					id: "forbidden_arcanus:eternal_stella"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "square"
+			dependencies: [
+				"21226FA8639ED4D3"
+				"1412848D3BEE5119"
+				"51CC8526297938A9"
+				"4349DC009FC38F30"
+				"03439BCB66261CE3"
+				"0F252A49290F236D"
+			]
+			id: "2A4BBCE97D10598D"
+			tasks: [{
+				id: "18D13B66599669F8"
+				type: "item"
+				item: {
+					id: "projecte:philosophers_stone"
+					Count: 1b
+					tag: { }
+					ForgeCaps: {
+						Parent: { }
+					}
+				}
+			}]
+		}
+	]
+	quest_links: [ ]
+}
