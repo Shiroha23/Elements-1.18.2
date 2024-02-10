@@ -1,0 +1,152 @@
+{
+	id: "3771F6DC8E8560E4"
+	group: ""
+	order_index: 0
+	filename: "3771F6DC8E8560E4"
+	title: "建议"
+	icon: "extendedcrafting:handheld_table"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			x: 0.0d
+			y: 0.0d
+			shape: "hexagon"
+			id: "1A98A8F149C8267F"
+			tasks: [{
+				id: "672CE71191942D35"
+				type: "item"
+				item: "extendedcrafting:handheld_table"
+			}]
+			rewards: [{
+				id: "6E718878DC121161"
+				type: "item"
+				item: "minecraft:bread"
+				count: 24
+			}]
+		}
+		{
+			x: 0.0d
+			y: -2.0d
+			id: "5733E7E84F16FF91"
+			tasks: [{
+				id: "2479A4724854D076"
+				type: "item"
+				item: {
+					id: "mekanismtools:iron_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4E12334B43F3EF73"
+				type: "item"
+				item: {
+					id: "mekanismtools:iron_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 2.0d
+			y: 1.0d
+			id: "7CF46C6B01FE25E1"
+			tasks: [{
+				id: "7DA03F2B95CBC36A"
+				type: "item"
+				item: "expandedstorage:iron_chest"
+			}]
+			rewards: [{
+				id: "0333ED258164BF45"
+				type: "item"
+				item: "expandedstorage:iron_chest"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "078F4FDB48FBD64D"
+			tasks: [{
+				id: "60188F79BC8D1A02"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+			rewards: [{
+				id: "2490A8EA5F9DDEEB"
+				type: "item"
+				item: "sophisticatedbackpacks:backpack"
+			}]
+		}
+		{
+			x: 0.0d
+			y: 2.0d
+			id: "33DC3BCF0BB25C4B"
+			tasks: [{
+				id: "310E717C61CAC75D"
+				type: "item"
+				item: {
+					id: "tiab:time_in_a_bottle"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "0266DD902300D527"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+		}
+		{
+			x: -2.0d
+			y: 1.0d
+			id: "04FDD43C1F424138"
+			tasks: [
+				{
+					id: "0FAA1BCC7B8F8118"
+					type: "item"
+					item: {
+						id: "naturescompass:naturescompass"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "68CA623B1222E9F5"
+					type: "item"
+					item: {
+						id: "explorerscompass:explorerscompass"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+			rewards: [{
+				id: "66C006F0129758A9"
+				type: "item"
+				item: "waystones:waystone"
+				count: 2
+			}]
+		}
+		{
+			x: -2.0d
+			y: -1.0d
+			id: "2F008E59EF5D4A38"
+			tasks: [{
+				id: "6B8337616DAEE026"
+				type: "item"
+				item: "enchantinginfuser:enchanting_infuser"
+			}]
+			rewards: [{
+				id: "5D54641D01BEE645"
+				type: "xp_levels"
+				xp_levels: 30
+			}]
+		}
+	]
+	quest_links: [ ]
+}
